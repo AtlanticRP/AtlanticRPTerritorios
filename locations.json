@@ -1,7 +1,7 @@
 [
   {
     "id":1,
-    "type":"Territory Areas",
+    "type":"Áreas Territoriais",
     "title":"Aztecas",
     "notes":"Gangue de rua hispânica extremamente perigosa. Violentos. Orgulhosos. Psicóticos. Fortemente envolvidos em tiroteios e violência nas ruas.",
     "order":1,
@@ -17,7 +17,7 @@
   },
   {
     "id":2,
-    "type":"Territory Areas",
+    "type":"Áreas Territoriais",
     "title":"Ballas",
     "notes":"Os Ballas mantêm até aos dias de hoje uma longa, intensa e sangrenta rivalidade com a Grove Street Families. A data de início desta rivalidade é desconhecida contudo desde 1987 que se encontra a todo o gás.",
     "order":1,
@@ -38,7 +38,7 @@
   },
   {
     "id":3,
-    "type":"Territory Areas",
+    "type":"Áreas Territoriais",
     "title":"Bloods",
     "notes":"Os Bloods são uma das maiores e mais violentas gangues da California. Eles tem uma intensa rivalidade com os Crips. Os membros são conhecidos pela cor vermelha, escolhida dado que os Crips usavam a cor azul.",
     "order":2,
@@ -53,7 +53,7 @@
   },
   {
     "id":4,
-    "type":"Territory Areas",
+    "type":"Áreas Territoriais",
     "title":"Crips",
     "notes":"Há muitas versões sobre a origem do nome, a mais citada é como uma sigla para Community Revolution In Progress (Revolução Comunitária em Progresso).",
     "order":2,
@@ -71,7 +71,7 @@
   },
   {
     "id":5,
-    "type":"Territory Areas",
+    "type":"Áreas Territoriais",
     "title":"Grove Street Families",
     "notes":"'Sworn enemies' dos Ballas, uma intensa rivalidade que faz parte da Guerra Ballas-Grove Street. Os Grove Street Families também mantêm rivalidade com 2 gangs mexicanas - Vagos e Aztecas.",
     "order":2,
@@ -91,7 +91,7 @@
   },
   {
     "id":6,
-    "type":"Territory Areas",
+    "type":"Áreas Territoriais",
     "title":"MS13",
     "notes":"Os seus membros identificam-se facilmente pelos sinais MS, que fazem com as mãos, e pelas tatuagens pesadas (que incluem o 'MS-13') espalhadas pelo corpo, inclusive na testa.",
     "order":2,
@@ -106,7 +106,7 @@
   },
   {
     "id":7,
-    "type":"Territory Areas",
+    "type":"Áreas Territoriais",
     "title":"Vagos",
     "notes":"Formada a 14 de Outubro de 1969, numa altura em que as ruas eram medidas pelo poder do armamento, 16 destemidos amigos com olho para as ilegalidades, começaram assim o seu domínio na cidade.",
     "order":2,
@@ -123,7 +123,7 @@
   },
   {
     "id":8,
-    "type":"Territory Areas",
+    "type":"Áreas Territoriais",
     "title":"PCC",
     "notes":"O Primeiro Comando da Capital, 'PCC', é a maior organização criminosa do Brasil e uma das maiores do mundo. Espalhada por mais de 90 países, possui cerca de 30 mil membros e é principalmente financiada pelo tráfico de erva e cocaína.",
     "order":2,
@@ -140,7 +140,7 @@
   },
   {
     "id":9,
-    "type":"Territory Areas",
+    "type":"Áreas Territoriais",
     "title":"Comando Vermelho",
     "notes":"Sendo uma das maiores organizações criminosas do Brasil, rivais do PCC, os membros fundadores do Comando Vermelho tornaram-se notórios pelas suas atividades criminosas e pelas suas condenações, que financiavam as atividades criminosas daqueles que estavam em liberdade.",
     "order":2,
@@ -155,7 +155,7 @@
   },
   {
     "id":21,
-    "type":"Neutral Zones",
+    "type":"Zonas Neutras",
     "title":"Esquada PSP",
     "notes":"Pela ordem e pela pátria!",
     "order":2,
@@ -172,7 +172,7 @@
   },
   {
     "id":22,
-    "type":"Neutral Zones",
+    "type":"Zonas Neutras",
     "title":"Hospital Atlantic",
     "notes":"A tua vida vem primeiro! - Hospital Atlantic",
     "order":2,
@@ -187,7 +187,7 @@
   },
   {
     "id":23,
-    "type":"Neutral Zones",
+    "type":"Zonas Neutras",
     "title":"Pink Cage Motel",
     "notes":"O melhor sítio para um boa noite de sono!",
     "order":2,
@@ -202,7 +202,7 @@
   },
   {
     "id":24,
-    "type":"Neutral Zones",
+    "type":"Zonas Neutras",
     "title":"Stand Clássicos",
     "notes":"O que não nos desafia não nos transforma. Escolhe o melhor ou nada.",
     "order":2,
@@ -217,7 +217,7 @@
   },
   {
     "id":25,
-    "type":"Neutral Zones",
+    "type":"Zonas Neutras",
     "title":"Tribunal",
     "notes":"A Justiça está mais próxima de si a servir e proteger Atlantic.",
     "order":2,

@@ -144,13 +144,13 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Territory Areas',
+			name: 'Áreas Territoriais',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
 		},
 		{
-			name: 'Neutral Zones',
+			name: 'Zonas Neutras',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
