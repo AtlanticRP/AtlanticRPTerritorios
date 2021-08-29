@@ -1,4 +1,4 @@
-Atlantic - Territórios
+AtlanticRP - Territórios
 ====
 [Este mapa](https://atlanticrp.github.io/AtlanticTerritorios/#)
 interativo (Google) mostra as zonas territoriais do servidor AtlanticRP.
