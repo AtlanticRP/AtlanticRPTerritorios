@@ -57,8 +57,8 @@
     "title":"Crips",
     "notes":"Há muitas versões sobre a origem do nome, a mais citada é como uma sigla para Community Revolution In Progress (Revolução Comunitária em Progresso).",
     "order":2,
-	"strokecolor":"#005eff",
-	"fillcolor":"#005eff",
+	"strokecolor":"#0000FF",
+	"fillcolor":"#0000FF",
     "latlngarray": [
 	{"lat": 63.281, "lng": -119.994},
 	{"lat": 63.143, "lng": -119.577},
@@ -159,8 +159,8 @@
     "title":"Esquada PSP",
     "notes":"Pela ordem e pela pátria!",
     "order":2,
-	"strokecolor":"#15a4db",
-	"fillcolor":"#15a4db",
+	"strokecolor":"#005eff",
+	"fillcolor":"#005eff",
     "latlngarray": [
       {"lat": 66.619, "lng": -135.848},
       {"lat": 66.871, "lng": -135.112},
