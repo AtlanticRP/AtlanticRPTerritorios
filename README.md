@@ -1,7 +1,7 @@
 Atlantic - Territórios
 ====
-[Mapa](https://atlanticrp.github.io/AtlanticTerritorios/#)
-Este mapa interativo (Google) mostra as zonas territoriais do servidor AtlanticRP.
+[Este mapa](https://atlanticrp.github.io/AtlanticTerritorios/#)
+interativo (Google) mostra as zonas territoriais do servidor AtlanticRP.
 
 ## License
 
