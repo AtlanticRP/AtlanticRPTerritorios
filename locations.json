@@ -227,8 +227,8 @@
     "title":"Tribunal",
     "notes":"A Justiça está mais próxima de si a servir e proteger Atlantic.",
     "order":2,
-	"strokecolor":"#e1c699",
-	"fillcolor":"#e1c699",
+	"strokecolor":"#765e67",
+	"fillcolor":"#765e67",
     "latlngarray": [
       {"lat": 69.035, "lng": -130.552},
       {"lat": 69.192, "lng": -129.618},
