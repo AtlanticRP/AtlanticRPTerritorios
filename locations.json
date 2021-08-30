@@ -159,8 +159,8 @@
     "title":"Abrigo do Pastor",
     "notes":"Aqui existia um casebre, que servia de abrigo a caçadores e pastores.",
     "order":2,
-	"strokecolor":"#e1c699",
-	"fillcolor":"#e1c699",
+	"strokecolor":"#9c7248",
+	"fillcolor":"#9c7248",
     "latlngarray": [
 	{"lat": 82.409, "lng": -131.195},
 	{"lat": 82.381, "lng": -130.986},
