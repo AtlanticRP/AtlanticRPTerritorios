@@ -156,6 +156,21 @@
   {
     "id":21,
     "type":"Zonas Neutras",
+    "title":"Abrigo do Pastor",
+    "notes":"Aqui existia um casebre, que servia de abrigo a caçadores e pastores.",
+    "order":2,
+	"strokecolor":"#e1c699",
+	"fillcolor":"#e1c699",
+    "latlngarray": [
+	{"lat": 82.409, "lng": -131.195},
+	{"lat": 82.381, "lng": -130.986},
+	{"lat": 82.368, "lng": -131.129},
+	{"lat": 82.393, "lng": -131.261}
+	]
+  },
+  {
+    "id":22,
+    "type":"Zonas Neutras",
     "title":"Esquada PSP",
     "notes":"Pela ordem e pela pátria!",
     "order":2,
@@ -171,7 +186,7 @@
       ]
   },
   {
-    "id":22,
+    "id":23,
     "type":"Zonas Neutras",
     "title":"Hospital Atlantic",
     "notes":"A tua vida vem primeiro! - Hospital Atlantic",
@@ -192,7 +207,7 @@
 	]
   },
   {
-    "id":23,
+    "id":24,
     "type":"Zonas Neutras",
     "title":"Pink Cage Motel",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -207,7 +222,7 @@
 	]
   },
   {
-    "id":24,
+    "id":25,
     "type":"Zonas Neutras",
     "title":"Stand Clássicos",
     "notes":"O que não nos desafia não nos transforma. Escolhe o melhor ou nada.",
@@ -222,7 +237,7 @@
       ]
   },
   {
-    "id":25,
+    "id":26,
     "type":"Zonas Neutras",
     "title":"Tribunal",
     "notes":"A Justiça está mais próxima de si a servir e proteger Atlantic.",
