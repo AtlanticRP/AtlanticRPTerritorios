@@ -227,8 +227,8 @@
     "title":"Motel - Bayview",
     "notes":"O melhor sítio para um boa noite de sono!",
     "order":2,
-	"strokecolor":"#3e363f",
-	"fillcolor":"#3e363f",
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
     "latlngarray": [
 	{"lat": 82.318, "lng": -131.510},
 	{"lat": 82.299, "lng": -131.114},
@@ -239,7 +239,37 @@
   {
     "id":26,
     "type":"Zonas Neutras",
-    "title":"Motel - Pink Cage ",
+    "title":"Motel - Dream View",
+    "notes":"O melhor sítio para um boa noite de sono!",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+	{"lat": 82.999, "lng": -125.961},
+	{"lat": 83.058, "lng": -125.411},
+	{"lat": 83.009, "lng": -125.005},
+	{"lat": 82.951, "lng": -125.554}
+	]
+  },
+  {
+    "id":27,
+    "type":"Zonas Neutras",
+    "title":"Motel - Perrera Beach",
+    "notes":"O melhor sítio para um boa noite de sono!",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+	{"lat": 67.302, "lng": -139.416},
+	{"lat": 67.463, "lng": -138.812},
+	{"lat": 67.319, "lng": -138.548},
+	{"lat": 67.175, "lng": -139.031}
+	]
+  },
+  {
+    "id":28,
+    "type":"Zonas Neutras",
+    "title":"Motel - Pink Cage",
     "notes":"O melhor sítio para um boa noite de sono!",
     "order":2,
 	"strokecolor":"#FFC0CB",
@@ -252,7 +282,22 @@
 	]
   },
   {
-    "id":27,
+    "id":29,
+    "type":"Zonas Neutras",
+    "title":"Motel - Route 68",
+    "notes":"O melhor sítio para um boa noite de sono!",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+	{"lat": 77.014, "lng": -114.029},
+	{"lat": 77.012, "lng": -113.293},
+	{"lat": 76.910, "lng": -113.304},
+	{"lat": 76.910, "lng": -114.007}
+	]
+  },
+  {
+    "id":30,
     "type":"Zonas Neutras",
     "title":"Stand Clássicos",
     "notes":"O que não nos desafia não nos transforma. Escolhe o melhor ou nada.",
@@ -267,7 +312,7 @@
       ]
   },
   {
-    "id":28,
+    "id":31,
     "type":"Zonas Neutras",
     "title":"Tribunal",
     "notes":"A Justiça está mais próxima de si a servir e proteger Atlantic.",
