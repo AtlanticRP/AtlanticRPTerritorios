@@ -209,7 +209,22 @@
   {
     "id":24,
     "type":"Zonas Neutras",
-    "title":"Pink Cage Motel",
+    "title":"Motel - Bayview",
+    "notes":"O melhor sítio para um boa noite de sono!",
+    "order":2,
+	"strokecolor":"#3e363f",
+	"fillcolor":"#3e363f",
+    "latlngarray": [
+	{"lat": 82.318, "lng": -131.510},
+	{"lat": 82.299, "lng": -131.114},
+	{"lat": 82.259, "lng": -131.246},
+	{"lat": 82.274, "lng": -131.664}
+	]
+  },
+  {
+    "id":25,
+    "type":"Zonas Neutras",
+    "title":"Motel - Pink Cage ",
     "notes":"O melhor sítio para um boa noite de sono!",
     "order":2,
 	"strokecolor":"#FFC0CB",
@@ -222,7 +237,7 @@
 	]
   },
   {
-    "id":25,
+    "id":26,
     "type":"Zonas Neutras",
     "title":"Stand Clássicos",
     "notes":"O que não nos desafia não nos transforma. Escolhe o melhor ou nada.",
@@ -237,7 +252,7 @@
       ]
   },
   {
-    "id":26,
+    "id":27,
     "type":"Zonas Neutras",
     "title":"Tribunal",
     "notes":"A Justiça está mais próxima de si a servir e proteger Atlantic.",
