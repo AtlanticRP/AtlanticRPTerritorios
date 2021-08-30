@@ -156,16 +156,16 @@
   {
     "id":21,
     "type":"Zonas Neutras",
-    "title":"Abrigo do Pastor",
-    "notes":"Aqui existia um casebre, que servia de abrigo a caçadores e pastores.",
+    "title":"Benny's",
+    "notes":"Mecânicos experientes, equipamentos especializados e acessórios customizados.",
     "order":2,
-	"strokecolor":"#9c7248",
-	"fillcolor":"#9c7248",
+	"strokecolor":"#acc0f6",
+	"fillcolor":"#acc0f6",
     "latlngarray": [
-	{"lat": 82.409, "lng": -131.195},
-	{"lat": 82.381, "lng": -130.986},
-	{"lat": 82.368, "lng": -131.129},
-	{"lat": 82.393, "lng": -131.261}
+	{"lat": 64.979, "lng": -127.088},
+	{"lat": 64.979, "lng": -126.308},
+	{"lat": 64.647, "lng": -126.276},
+	{"lat": 64.647, "lng": -127.099}
 	]
   },
   {
@@ -174,8 +174,8 @@
     "title":"Casino",
     "notes":"Aposta tudo o que quiseres!",
     "order":2,
-	"strokecolor":"#00bdff",
-	"fillcolor":"#00bdff",
+	"strokecolor":"#8ad5f5",
+	"fillcolor":"#8ad5f5",
     "latlngarray": [
 	{"lat": 70.022, "lng": -115.427},
 	{"lat": 69.909, "lng": -114.680},
@@ -227,8 +227,8 @@
     "title":"Motel - Bayview",
     "notes":"O melhor sítio para um boa noite de sono!",
     "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
+	"strokecolor":"#ffbcbc",
+	"fillcolor":"#ffbcbc",
     "latlngarray": [
 	{"lat": 82.318, "lng": -131.510},
 	{"lat": 82.299, "lng": -131.114},
@@ -242,8 +242,8 @@
     "title":"Motel - Dream View",
     "notes":"O melhor sítio para um boa noite de sono!",
     "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
+	"strokecolor":"#ffbcbc",
+	"fillcolor":"#ffbcbc",
     "latlngarray": [
 	{"lat": 82.999, "lng": -125.961},
 	{"lat": 83.058, "lng": -125.411},
@@ -257,8 +257,8 @@
     "title":"Motel - Perrera Beach",
     "notes":"O melhor sítio para um boa noite de sono!",
     "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
+	"strokecolor":"#ffbcbc",
+	"fillcolor":"#ffbcbc",
     "latlngarray": [
 	{"lat": 67.302, "lng": -139.416},
 	{"lat": 67.463, "lng": -138.812},
@@ -272,8 +272,8 @@
     "title":"Motel - Pink Cage",
     "notes":"O melhor sítio para um boa noite de sono!",
     "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
+	"strokecolor":"#ffbcbc",
+	"fillcolor":"#ffbcbc",
     "latlngarray": [
 		{"lat": 69.108, "lng": -121.987},
 		{"lat": 68.951, "lng": -122.141},
@@ -287,8 +287,8 @@
     "title":"Motel - Route 68",
     "notes":"O melhor sítio para um boa noite de sono!",
     "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
+	"strokecolor":"#ffbcbc",
+	"fillcolor":"#ffbcbc",
     "latlngarray": [
 	{"lat": 77.014, "lng": -114.029},
 	{"lat": 77.012, "lng": -113.293},
