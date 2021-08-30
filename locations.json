@@ -124,6 +124,21 @@
   {
     "id":8,
     "type":"Áreas Territoriais",
+    "title":"Comando Vermelho",
+    "notes":"Sendo uma das maiores organizações criminosas do Brasil, rivais do PCC, os membros fundadores do Comando Vermelho tornaram-se notórios pelas suas atividades criminosas e pelas suas condenações, que financiavam as atividades criminosas daqueles que estavam em liberdade.",
+    "order":2,
+	"strokecolor":"#d75d1a",
+	"fillcolor":"#d75d1a",
+    "latlngarray": [
+      {"lat": 79.395, "lng": -105.340},
+      {"lat": 79.510, "lng": -104.274},
+      {"lat": 79.253, "lng": -103.307},
+      {"lat": 79.129, "lng": -104.472}
+      ]
+  },
+  {
+    "id":9,
+    "type":"Áreas Territoriais",
     "title":"PCC",
     "notes":"O Primeiro Comando da Capital, 'PCC', é a maior organização criminosa do Brasil e uma das maiores do mundo. Espalhada por mais de 90 países, possui cerca de 30 mil membros e é principalmente financiada pelo tráfico de erva e cocaína.",
     "order":2,
@@ -136,21 +151,6 @@
       {"lat": 83.215, "lng": -124.499},
       {"lat": 83.290, "lng": -123.883},
       {"lat": 83.223, "lng": -123.268}
-      ]
-  },
-  {
-    "id":9,
-    "type":"Áreas Territoriais",
-    "title":"Comando Vermelho",
-    "notes":"Sendo uma das maiores organizações criminosas do Brasil, rivais do PCC, os membros fundadores do Comando Vermelho tornaram-se notórios pelas suas atividades criminosas e pelas suas condenações, que financiavam as atividades criminosas daqueles que estavam em liberdade.",
-    "order":2,
-	"strokecolor":"#bd1515",
-	"fillcolor":"#bd1515",
-    "latlngarray": [
-      {"lat": 79.395, "lng": -105.340},
-      {"lat": 79.510, "lng": -104.274},
-      {"lat": 79.253, "lng": -103.307},
-      {"lat": 79.129, "lng": -104.472}
       ]
   },
   {
