@@ -159,8 +159,8 @@
     "title":"Benny's",
     "notes":"Mecânicos experientes, equipamentos especializados e acessórios customizados.",
     "order":2,
-	"strokecolor":"#acc0f6",
-	"fillcolor":"#acc0f6",
+	"strokecolor":"#cef818",
+	"fillcolor":"#cef818",
     "latlngarray": [
 	{"lat": 64.979, "lng": -127.088},
 	{"lat": 64.979, "lng": -126.308},
