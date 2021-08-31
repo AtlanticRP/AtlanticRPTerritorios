@@ -267,6 +267,22 @@
 	]
   },
   {
+    "id":26,
+    "type":"Zonas Neutras",
+    "title":"Los Santos Customs",
+    "notes":"A oficina mais eficiente e rápida da Cidade de Atlantic!",
+    "order":2,
+	"strokecolor":"#000047",
+	"fillcolor":"#000047",
+    "latlngarray": [
+	{"lat": 69.390, "lng": -128.696},
+	{"lat": 69.023, "lng": -128.135},
+	{"lat": 69.078, "lng": -127.487},
+	{"lat": 69.293, "lng": -127.377},
+	{"lat": 69.459, "lng": -128.564}
+	]
+  },
+  {
     "id":27,
     "type":"Zonas Neutras",
     "title":"Motel - Bayview",
