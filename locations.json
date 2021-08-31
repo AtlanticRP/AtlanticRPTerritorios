@@ -79,19 +79,32 @@
 	"strokecolor":"#008614",
 	"fillcolor":"#008614",
     "latlngarray": [
-      {"lat": 63.948, "lng": -126.215},
-      {"lat": 63.632, "lng": -126.841},
-      {"lat": 63.061, "lng": -126.863},
-      {"lat": 62.462, "lng": -125.270},
-      {"lat": 62.770, "lng": -124.699},
-      {"lat": 62.961, "lng": -125.149},
-      {"lat": 62.886, "lng": -125.545},
-      {"lat": 63.036, "lng": -125.864},
-      {"lat": 63.490, "lng": -125.018}
-      ]
+	{"lat": 63.932, "lng": -126.230},
+	{"lat": 63.484, "lng": -125.022},
+	{"lat": 63.034, "lng": -125.857},
+	{"lat": 62.839, "lng": -126.274},
+	{"lat": 63.049, "lng": -126.868},
+	{"lat": 63.616, "lng": -126.846}
+	]
   },
   {
     "id":6,
+    "type":"Áreas Territoriais",
+    "title":"Grove Street Families - Sudeste",
+    "notes":"Território reclamado pelos Grove Street Families.",
+    "order":2,
+	"strokecolor":"#008614",
+	"fillcolor":"#008614",
+    "latlngarray": [
+	{"lat": 62.716, "lng": -126.104},
+	{"lat": 62.351, "lng": -125.137},
+	{"lat": 62.696, "lng": -124.522},
+	{"lat": 62.952, "lng": -125.148},
+	{"lat": 62.807, "lng": -125.939}
+	]
+  },
+  {
+    "id":7,
     "type":"Áreas Territoriais",
     "title":"MS-13",
     "notes":"Os seus membros identificam-se facilmente pelos sinais MS, que fazem com as mãos, e pelas tatuagens pesadas (que incluem o 'MS-13') espalhadas pelo corpo, inclusive na testa.",
@@ -106,7 +119,7 @@
       ]
   },
   {
-    "id":7,
+    "id":8,
     "type":"Áreas Territoriais",
     "title":"Vagos",
     "notes":"Formada a 14 de Outubro de 1969, numa altura em que as ruas eram medidas pelo poder do armamento, 16 destemidos amigos com olho para as ilegalidades, começaram assim o seu domínio na cidade.",
@@ -123,7 +136,7 @@
       ]
   },
   {
-    "id":8,
+    "id":9,
     "type":"Áreas Territoriais",
     "title":"Comando Vermelho",
     "notes":"Sendo uma das maiores organizações criminosas do Brasil, rivais do PCC, os membros fundadores do Comando Vermelho tornaram-se notórios pelas suas atividades criminosas e pelas suas condenações, que financiavam as atividades criminosas daqueles que estavam em liberdade.",
@@ -138,7 +151,7 @@
       ]
   },
   {
-    "id":9,
+    "id":10,
     "type":"Áreas Territoriais",
     "title":"PCC",
     "notes":"O Primeiro Comando da Capital, 'PCC', é a maior organização criminosa do Brasil e uma das maiores do mundo. Espalhada por mais de 90 países, possui cerca de 30 mil membros e é principalmente financiada pelo tráfico de erva e cocaína.",
