@@ -58,8 +58,8 @@
     "title":"Crips",
     "notes":"Há muitas versões sobre a origem do nome, a mais citada é como uma sigla para Community Revolution In Progress (Revolução Comunitária em Progresso).",
     "order":2,
-	"strokecolor":"#0000FF",
-	"fillcolor":"#0000FF",
+	"strokecolor":"#0900ff",
+	"fillcolor":"#0900ff",
     "latlngarray": [
 	{"lat": 63.281, "lng": -119.994},
 	{"lat": 63.143, "lng": -119.577},
@@ -233,23 +233,6 @@
   {
     "id":25,
     "type":"Zonas Neutras",
-    "title":"Esquadra PSP",
-    "notes":"Pela ordem e pela pátria!",
-    "order":2,
-	"strokecolor":"#005eff",
-	"fillcolor":"#005eff",
-    "latlngarray": [
-      {"lat": 66.619, "lng": -135.848},
-      {"lat": 66.871, "lng": -135.112},
-      {"lat": 66.797, "lng": -134.903},
-      {"lat": 66.706, "lng": -134.343},
-      {"lat": 66.536, "lng": -134.618},
-      {"lat": 66.343, "lng": -135.453}
-      ]
-  },
-  {
-    "id":26,
-    "type":"Zonas Neutras",
     "title":"Harmony Repair",
     "notes":"Embora a Harmony Repair seja principalmente uma oficina, ela tem amplas conexões com modificações automóveis, como sistemas hidráulicos, aparelhos de som personalizados, vinis, mods de motor e interiores e pinturas exclusivas.",
     "order":2,
@@ -264,7 +247,7 @@
 	]
   },
   {
-    "id":27,
+    "id":26,
     "type":"Zonas Neutras",
     "title":"Hospital Atlantic",
     "notes":"A tua vida vem primeiro! - Hospital Atlantic",
@@ -285,7 +268,7 @@
 	]
   },
   {
-    "id":28,
+    "id":27,
     "type":"Zonas Neutras",
     "title":"Los Santos Customs",
     "notes":"A oficina mais eficiente e rápida da Cidade de Atlantic!",
@@ -301,7 +284,7 @@
 	]
   },
   {
-    "id":29,
+    "id":28,
     "type":"Zonas Neutras",
     "title":"Motel - Bayview",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -316,7 +299,7 @@
 	]
   },
   {
-    "id":30,
+    "id":29,
     "type":"Zonas Neutras",
     "title":"Motel - Dream View",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -331,7 +314,7 @@
 	]
   },
   {
-    "id":31,
+    "id":30,
     "type":"Zonas Neutras",
     "title":"Motel - Perrera Beach",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -346,7 +329,7 @@
 	]
   },
   {
-    "id":32,
+    "id":31,
     "type":"Zonas Neutras",
     "title":"Motel - Pink Cage",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -361,7 +344,7 @@
 	]
   },
   {
-    "id":33,
+    "id":32,
     "type":"Zonas Neutras",
     "title":"Motel - Route 68",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -374,6 +357,23 @@
 	{"lat": 76.910, "lng": -113.304},
 	{"lat": 76.910, "lng": -114.007}
 	]
+  },
+  {
+    "id":33,
+    "type":"Zonas Neutras",
+    "title":"PSP",
+    "notes":"Pela ordem e pela pátria!",
+    "order":2,
+	"strokecolor":"#000066",
+	"fillcolor":"#005eff",
+    "latlngarray": [
+      {"lat": 66.619, "lng": -135.848},
+      {"lat": 66.871, "lng": -135.112},
+      {"lat": 66.797, "lng": -134.903},
+      {"lat": 66.706, "lng": -134.343},
+      {"lat": 66.536, "lng": -134.618},
+      {"lat": 66.343, "lng": -135.453}
+      ]
   },
   {
     "id":34,
