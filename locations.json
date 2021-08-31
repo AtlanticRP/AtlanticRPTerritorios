@@ -65,8 +65,8 @@
     "title":"Crips",
     "notes":"Há muitas versões sobre a origem do nome, a mais citada é como uma sigla para Community Revolution In Progress (Revolução Comunitária em Progresso).",
     "order":2,
-	"strokecolor":"#0900ff",
-	"fillcolor":"#0900ff",
+	"strokecolor":"#001eff",
+	"fillcolor":"#001eff",
     "latlngarray": [
 	{"lat": 63.281, "lng": -119.994},
 	{"lat": 63.143, "lng": -119.577},
