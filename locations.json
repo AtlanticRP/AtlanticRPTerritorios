@@ -167,6 +167,39 @@
       {"lat": 83.223, "lng": -123.268}
       ]
   },
+  {
+    "id":11,
+    "type":"Zonas Neutras",
+    "title":"The Lost",
+    "notes":"Após fazerem uma reestruturação interna, os The Lost mudaram-se para Stab City e fizeram de Paleto Bay a sua nova casa.",
+    "order":2,
+	"strokecolor":"#86340a",
+	"fillcolor":"#86340a",
+    "latlngarray": [
+	{"lat": 78.932, "lng": -115.607},
+	{"lat": 78.775, "lng": -115.607},
+	{"lat": 78.775, "lng": -115.992},
+	{"lat": 78.928, "lng": -116.003}
+	]
+  },
+  {
+    "id":12,
+    "type":"Zonas Neutras",
+    "title":"Yellow Jack",
+    "notes":"Um bar pequeno mas bastante sofisticado que é o favorito dos residentes do Norte da Cidade de Atlantic controlado pelo Serpents.",
+    "order":2,
+	"strokecolor":"#ffa700",
+	"fillcolor":"#ffef00",
+    "latlngarray": [
+	{"lat": 77.920, "lng": -105.319},
+	{"lat": 77.853, "lng": -104.748},
+	{"lat": 77.800, "lng": -104.660},
+	{"lat": 77.746, "lng": -104.693},
+	{"lat": 77.693, "lng": -104.913},
+	{"lat": 77.662, "lng": -105.704},
+	{"lat": 77.756, "lng": -105.814}
+	]
+  },
 {
     "id":21,
     "type":"Zonas Neutras",
@@ -388,23 +421,5 @@
       {"lat": 68.842, "lng": -129.080},
       {"lat": 68.695, "lng": -130.025}
       ]
-  },
-  {
-    "id":35,
-    "type":"Zonas Neutras",
-    "title":"Yellow Jack",
-    "notes":"Um bar pequeno mas bastante sofisticado que é o favorito dos residentes do Norte da Cidade de Atlantic.",
-    "order":2,
-	"strokecolor":"#ffa700",
-	"fillcolor":"#ffef00",
-    "latlngarray": [
-	{"lat": 77.920, "lng": -105.319},
-	{"lat": 77.853, "lng": -104.748},
-	{"lat": 77.800, "lng": -104.660},
-	{"lat": 77.746, "lng": -104.693},
-	{"lat": 77.693, "lng": -104.913},
-	{"lat": 77.662, "lng": -105.704},
-	{"lat": 77.756, "lng": -105.814}
-	]
   }
 ]
