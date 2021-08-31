@@ -270,22 +270,6 @@
   {
     "id":27,
     "type":"Zonas Neutras",
-    "title":"Los Santos Customs",
-    "notes":"A oficina mais eficiente e rápida da Cidade de Atlantic!",
-    "order":2,
-	"strokecolor":"#000047",
-	"fillcolor":"#000047",
-    "latlngarray": [
-	{"lat": 69.390, "lng": -128.696},
-	{"lat": 69.023, "lng": -128.135},
-	{"lat": 69.078, "lng": -127.487},
-	{"lat": 69.293, "lng": -127.377},
-	{"lat": 69.459, "lng": -128.564}
-	]
-  },
-  {
-    "id":28,
-    "type":"Zonas Neutras",
     "title":"Motel - Bayview",
     "notes":"O melhor sítio para um boa noite de sono!",
     "order":2,
@@ -299,7 +283,7 @@
 	]
   },
   {
-    "id":29,
+    "id":28,
     "type":"Zonas Neutras",
     "title":"Motel - Dream View",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -314,7 +298,7 @@
 	]
   },
   {
-    "id":30,
+    "id":29,
     "type":"Zonas Neutras",
     "title":"Motel - Perrera Beach",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -329,7 +313,7 @@
 	]
   },
   {
-    "id":31,
+    "id":30,
     "type":"Zonas Neutras",
     "title":"Motel - Pink Cage",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -344,7 +328,7 @@
 	]
   },
   {
-    "id":32,
+    "id":31,
     "type":"Zonas Neutras",
     "title":"Motel - Route 68",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -359,7 +343,7 @@
 	]
   },
   {
-    "id":33,
+    "id":32,
     "type":"Zonas Neutras",
     "title":"PSP",
     "notes":"Pela ordem e pela pátria!",
@@ -376,7 +360,7 @@
       ]
   },
   {
-    "id":34,
+    "id":33,
     "type":"Zonas Neutras",
     "title":"Stand de Clássicos",
     "notes":"O que não nos desafia não nos transforma. Escolhe o melhor ou nada.",
@@ -391,7 +375,7 @@
       ]
   },
   {
-    "id":35,
+    "id":34,
     "type":"Zonas Neutras",
     "title":"Tribunal",
     "notes":"A Justiça está mais próxima de si a servir e proteger Atlantic.",
@@ -406,7 +390,7 @@
       ]
   },
   {
-    "id":36,
+    "id":35,
     "type":"Zonas Neutras",
     "title":"Yellow Jack",
     "notes":"Um bar pequeno mas bastante sofisticado que é o favorito dos residentes do Norte da Cidade de Atlantic.",
