@@ -404,5 +404,23 @@
       {"lat": 68.842, "lng": -129.080},
       {"lat": 68.695, "lng": -130.025}
       ]
+  },
+  {
+    "id":36,
+    "type":"Zonas Neutras",
+    "title":"Yellow Jack",
+    "notes":"Um bar pequeno mas bastante sofisticado que é o favorito dos residentes do Norte da Cidade de Atlantic.",
+    "order":2,
+	"strokecolor":"#ffa700",
+	"fillcolor":"#ffef00",
+    "latlngarray": [
+	{"lat": 77.920, "lng": -105.319},
+	{"lat": 77.853, "lng": -104.748},
+	{"lat": 77.800, "lng": -104.660},
+	{"lat": 77.746, "lng": -104.693},
+	{"lat": 77.693, "lng": -104.913},
+	{"lat": 77.662, "lng": -105.704},
+	{"lat": 77.756, "lng": -105.814}
+	]
   }
 ]
