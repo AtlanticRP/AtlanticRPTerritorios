@@ -169,7 +169,7 @@
   },
   {
     "id":11,
-    "type":"Zonas Neutras",
+    "type":"Áreas Territoriais",
     "title":"Sons of Anarchy",
     "notes":"Para além de uma oficina de motociclos, os S.O.A. estão envolvidos no tráfico de armas em toda a zona Este de Atlantic, lidam com muitas gangues rivais e com as autoridades locais.",
     "order":2,
@@ -185,7 +185,7 @@
   },
   {
     "id":12,
-    "type":"Zonas Neutras",
+    "type":"Áreas Territoriais",
     "title":"The Lost",
     "notes":"Após fazerem uma reestruturação interna, os The Lost mudaram-se para Stab City e fizeram de Paleto Bay a sua nova casa.",
     "order":2,
@@ -200,7 +200,7 @@
   },
   {
     "id":13,
-    "type":"Zonas Neutras",
+    "type":"Áreas Territoriais",
     "title":"Yellow Jack",
     "notes":"Um bar pequeno mas bastante sofisticado que é o favorito dos residentes do Norte da Cidade de Atlantic controlado pelo Serpents.",
     "order":2,
