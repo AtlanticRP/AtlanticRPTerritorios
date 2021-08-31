@@ -378,11 +378,11 @@
   {
     "id":34,
     "type":"Zonas Neutras",
-    "title":"Stand Clássicos",
+    "title":"Stand de Clássicos",
     "notes":"O que não nos desafia não nos transforma. Escolhe o melhor ou nada.",
     "order":2,
-	"strokecolor":"#004c4c",
-	"fillcolor":"#004c4c",
+	"strokecolor":"#167378",
+	"fillcolor":"#167378",
     "latlngarray": [
       {"lat": 69.925, "lng": -129.855},
       {"lat": 69.888, "lng": -128.427},
