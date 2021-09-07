@@ -170,6 +170,21 @@
   {
     "id":11,
     "type":"Áreas Territoriais",
+    "title":"Black Pistons MC",
+    "notes":"Bar, Oficina e Tráfico.",
+    "order":2,
+	"strokecolor":"#c0dec7",
+	"fillcolor":"#008080",
+    "latlngarray": [
+	{"lat": 66.914, "lng": -114.330},
+	{"lat": 66.909, "lng": -113.759},
+	{"lat": 66.819, "lng": -113.748},
+	{"lat": 66.836, "lng": -114.363}
+	]
+  },
+  {
+    "id":12,
+    "type":"Áreas Territoriais",
     "title":"Sons of Anarchy MC",
     "notes":"Para além de uma oficina de motociclos, os S.O.A. estão envolvidos no tráfico de armas em toda a zona Este de Atlantic, lidam com muitas gangues rivais e com as autoridades locais.",
     "order":2,
@@ -184,7 +199,7 @@
 	]
   },
   {
-    "id":12,
+    "id":13,
     "type":"Áreas Territoriais",
     "title":"The Lost MC",
     "notes":"Após fazerem uma reestruturação interna, os The Lost mudaram-se para Stab City e fizeram de Paleto Bay a sua nova casa.",
@@ -199,7 +214,7 @@
 	]
   },
   {
-    "id":13,
+    "id":14,
     "type":"Áreas Territoriais",
     "title":"Yellow Jack",
     "notes":"Um bar pequeno mas bastante sofisticado que é o favorito dos residentes do Norte da Cidade de Atlantic controlado pelos Vipers MC.",
