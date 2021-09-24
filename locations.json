@@ -104,21 +104,6 @@
 	]
   },
   {
-    "id":7,
-    "type":"Áreas Territoriais",
-    "title":"MS-13",
-    "notes":"Os seus membros identificam-se facilmente pelos sinais MS, que fazem com as mãos, e pelas tatuagens pesadas (que incluem o 'MS-13') espalhadas pelo corpo, inclusive na testa.",
-    "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#000000",
-    "latlngarray": [
-      {"lat": 64.047, "lng": -136.588},
-      {"lat": 64.353, "lng": -135.599},
-      {"lat": 63.868, "lng": -134.918},
-      {"lat": 63.572, "lng": -135.852}
-      ]
-  },
-  {
     "id":8,
     "type":"Áreas Territoriais",
     "title":"Vagos",
