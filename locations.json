@@ -109,8 +109,8 @@
     "title":"Kumi",
     "notes":"Território reclamado pelos Kumi.",
     "order":2,
-	"strokecolor":"#008614",
-	"fillcolor":"#008614",
+	"strokecolor":"#ff8e00",
+	"fillcolor":"#d7831a",
     "latlngarray": [
 	{"lat": 63.866, "lng": -111.978},
 	{"lat": 63.939, "lng": -111.583},
