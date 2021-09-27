@@ -104,6 +104,22 @@
 	]
   },
   {
+    "id":7,
+    "type":"Áreas Territoriais",
+    "title":"Kumi",
+    "notes":"Território reclamado pelos Kumi.",
+    "order":2,
+	"strokecolor":"#008614",
+	"fillcolor":"#008614",
+    "latlngarray": [
+	{"lat": 63.866, "lng": -111.978},
+	{"lat": 63.939, "lng": -111.583},
+	{"lat": 64.040, "lng": -110.330},
+	{"lat": 63.992, "lng": -110.220},
+	{"lat": 63.550, "lng": -111.583}
+	]
+  },	
+  {
     "id":8,
     "type":"Áreas Territoriais",
     "title":"Vagos",
