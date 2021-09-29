@@ -161,8 +161,8 @@
     "title":"PCC",
     "notes":"O Primeiro Comando da Capital, 'PCC', é a maior organização criminosa do Brasil e uma das maiores do mundo. Espalhada por mais de 90 países, possui cerca de 30 mil membros e é principalmente financiada pelo tráfico de erva e cocaína.",
     "order":2,
-	"strokecolor":"#ffa700",
-	"fillcolor":"#ffa700",
+	"strokecolor":"#008080",
+	"fillcolor":"#000000",
     "latlngarray": [
       {"lat": 83.082, "lng": -124.400},
       {"lat": 83.133, "lng": -124.740},
