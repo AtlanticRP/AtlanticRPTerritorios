@@ -234,6 +234,21 @@
 {
     "id":21,
     "type":"Zonas Neutras",
+    "title":"Abrigo do Pastor",
+    "notes":"Empresa de caça!",
+    "order":2,
+	"strokecolor":"#d8bfa8",
+	"fillcolor":"#86340a",
+    "latlngarray": [
+	{"lat": 82.391, "lng": -131.026},
+	{"lat": 82.398, "lng": -131.246},
+	{"lat": 82.359, "lng": -131.377},
+	{"lat": 82.358, "lng": -131.037}
+	]
+  },	
+{
+    "id":22,
+    "type":"Zonas Neutras",
     "title":"Atlantic Play",
     "notes":"A estação televisiva preferida dos cidadãos de Atlantic!",
     "order":2,
@@ -250,7 +265,7 @@
 	]
   },
   {
-    "id":22,
+    "id":23,
     "type":"Zonas Neutras",
     "title":"Bahama Mamas",
     "notes":"Uma discoteca feita para si!",
@@ -265,7 +280,7 @@
 	]
   },
   {
-    "id":23,
+    "id":24,
     "type":"Zonas Neutras",
     "title":"Benny's",
     "notes":"Mecânicos experientes, equipamentos especializados e acessórios customizados.",
@@ -280,7 +295,7 @@
 	]
   },
   {
-    "id":24,
+    "id":25,
     "type":"Zonas Neutras",
     "title":"Casino",
     "notes":"Aposta tudo o que quiseres!",
@@ -295,7 +310,7 @@
 	]
   },
   {
-    "id":25,
+    "id":26,
     "type":"Zonas Neutras",
     "title":"De Luxe",
     "notes":"Adoramos servir tudo o que o vosso corpo precisa!",
@@ -310,7 +325,7 @@
 	]
   },
   {
-    "id":26,
+    "id":27,
     "type":"Zonas Neutras",
     "title":"Harmony Repair",
     "notes":"Embora a Harmony Repair seja principalmente uma oficina, ela tem amplas conexões com modificações automóveis, como sistemas hidráulicos, aparelhos de som personalizados, vinis, mods de motor e interiores e pinturas exclusivas.",
@@ -326,7 +341,7 @@
 	]
   },
   {
-    "id":27,
+    "id":28,
     "type":"Zonas Neutras",
     "title":"Hospital Atlantic",
     "notes":"A tua vida vem primeiro! - Hospital Atlantic",
@@ -347,7 +362,7 @@
 	]
   },
   {
-    "id":28,
+    "id":29,
     "type":"Zonas Neutras",
     "title":"Motel - Bayview",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -362,7 +377,7 @@
 	]
   },
   {
-    "id":29,
+    "id":30,
     "type":"Zonas Neutras",
     "title":"Motel - Dream View",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -377,7 +392,7 @@
 	]
   },
   {
-    "id":30,
+    "id":31,
     "type":"Zonas Neutras",
     "title":"Motel - Perrera Beach",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -392,7 +407,7 @@
 	]
   },
   {
-    "id":31,
+    "id":32,
     "type":"Zonas Neutras",
     "title":"Motel - Pink Cage",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -407,7 +422,7 @@
 	]
   },
   {
-    "id":32,
+    "id":33,
     "type":"Zonas Neutras",
     "title":"Motel - Route 68",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -422,7 +437,7 @@
 	]
   },
   {
-    "id":33,
+    "id":34,
     "type":"Zonas Neutras",
     "title":"PSP",
     "notes":"Pela ordem e pela pátria!",
@@ -437,7 +452,7 @@
 	]
   },
   {
-    "id":34,
+    "id":35,
     "type":"Zonas Neutras",
     "title":"Stand de Clássicos",
     "notes":"O que não nos desafia não nos transforma. Escolhe o melhor ou nada.",
@@ -452,7 +467,7 @@
       ]
   },
   {
-    "id":35,
+    "id":36,
     "type":"Zonas Neutras",
     "title":"Tribunal",
     "notes":"A Justiça está mais próxima de si a servir e proteger Atlantic.",
