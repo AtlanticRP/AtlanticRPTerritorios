@@ -333,11 +333,10 @@
 	"strokecolor":"#ff6191",
 	"fillcolor":"#ff6191",
     "latlngarray": [
-	{"lat": 77.002, "lng": -112.799},
-	{"lat": 77.006, "lng": -113.227},
-	{"lat": 76.905, "lng": -113.227},
-	{"lat": 76.910, "lng": -112.886},
-	{"lat": 76.954, "lng": -112.722}
+	{"lat": 56.765, "lng": -123.386},
+	{"lat": 56.765, "lng": -122.781},
+	{"lat": 56.317, "lng": -122.737},
+	{"lat": 56.317, "lng": -123.397}
 	]
   },
   {
@@ -361,6 +360,21 @@
 	{"lat": 65.391, "lng": -132.473}
 	]
   },
+  {
+    "id":28,
+    "type":"Zonas Neutras",
+    "title":"Loja de Pesca",
+    "notes":"A tua vida vem primeiro! - Hospital Atlantic",
+    "order":2,
+	"strokecolor":"#8acae7",
+	"fillcolor":"#ffd530",
+    "latlngarray": [
+	{"lat": 81.605, "lng": -140.233},
+	{"lat": 81.587, "lng": -140.442},
+	{"lat": 81.489, "lng": -140.146},
+	{"lat": 81.508, "lng": -139.904}
+	]
+  },	
   {
     "id":29,
     "type":"Zonas Neutras",
