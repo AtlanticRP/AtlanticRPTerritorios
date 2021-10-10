@@ -78,28 +78,15 @@
 	"strokecolor":"#008614",
 	"fillcolor":"#008614",
     "latlngarray": [
-	{"lat": 63.932, "lng": -126.230},
-	{"lat": 63.484, "lng": -125.022},
-	{"lat": 63.034, "lng": -125.857},
-	{"lat": 62.839, "lng": -126.274},
-	{"lat": 63.049, "lng": -126.868},
-	{"lat": 63.616, "lng": -126.846}
-	]
-  },
-  {
-    "id":6,
-    "type":"Áreas Territoriais",
-    "title":"Grove S.F. - Sudeste",
-    "notes":"Território reclamado pelos Grove Street Families.",
-    "order":2,
-	"strokecolor":"#008614",
-	"fillcolor":"#008614",
-    "latlngarray": [
-	{"lat": 62.716, "lng": -126.104},
-	{"lat": 62.351, "lng": -125.137},
-	{"lat": 62.696, "lng": -124.522},
-	{"lat": 62.952, "lng": -125.148},
-	{"lat": 62.807, "lng": -125.939}
+	{"lat": 64.210, "lng": -127.136},
+	{"lat": 64.219, "lng": -126.938},
+	{"lat": 63.498, "lng": -125.004},
+	{"lat": 62.824, "lng": -126.268},
+	{"lat": 63.128, "lng": -127.114},
+	{"lat": 63.311, "lng": -127.894},
+	{"lat": 63.733, "lng": -127.333},
+	{"lat": 63.878, "lng": -127.191},
+	{"lat": 63.984, "lng": -127.136}
 	]
   },
   {
