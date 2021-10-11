@@ -241,19 +241,20 @@
 {
     "id":22,
     "type":"Zonas Neutras",
-    "title":"Atlantic Play",
+    "title":"Atlantic Play & Rockford Records",
     "notes":"A estação televisiva preferida dos cidadãos de Atlantic!",
     "order":2,
 	"strokecolor":"#f7347a",
-	"fillcolor":"#8acae7",
+	"fillcolor":"#110088",
     "latlngarray": [
-	{"lat": 66.396, "lng": -130.695},
-	{"lat": 66.396, "lng": -130.168},
-	{"lat": 66.602, "lng": -130.124},
-	{"lat": 66.602, "lng": -129.541},
-	{"lat": 66.466, "lng": -129.574},
-	{"lat": 66.220, "lng": -129.893},
-	{"lat": 66.211, "lng": -130.662}
+	{"lat": 68.955, "lng": -134.677},
+	{"lat": 68.825, "lng": -135.347},
+	{"lat": 68.733, "lng": -135.622},
+	{"lat": 68.705, "lng": -135.534},
+	{"lat": 68.741, "lng": -135.204},
+	{"lat": 68.825, "lng": -134.743},
+	{"lat": 68.521, "lng": -134.336},
+	{"lat": 68.701, "lng": -133.315}
 	]
   },
   {
@@ -353,7 +354,7 @@
 	]
   },
   {
-    "id":28,
+    "id":29,
     "type":"Zonas Neutras",
     "title":"Loja de Pesca",
     "notes":"A tua vida vem primeiro! - Hospital Atlantic",
@@ -368,7 +369,7 @@
 	]
   },	
   {
-    "id":29,
+    "id":30,
     "type":"Zonas Neutras",
     "title":"Motel - Bayview",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -383,7 +384,7 @@
 	]
   },
   {
-    "id":30,
+    "id":31,
     "type":"Zonas Neutras",
     "title":"Motel - Dream View",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -398,7 +399,7 @@
 	]
   },
   {
-    "id":31,
+    "id":32,
     "type":"Zonas Neutras",
     "title":"Motel - Perrera Beach",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -413,7 +414,7 @@
 	]
   },
   {
-    "id":32,
+    "id":33,
     "type":"Zonas Neutras",
     "title":"Motel - Pink Cage",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -428,7 +429,7 @@
 	]
   },
   {
-    "id":33,
+    "id":34,
     "type":"Zonas Neutras",
     "title":"Motel - Route 68",
     "notes":"O melhor sítio para um boa noite de sono!",
@@ -443,7 +444,7 @@
 	]
   },
   {
-    "id":34,
+    "id":35,
     "type":"Zonas Neutras",
     "title":"PSP",
     "notes":"Pela ordem e pela pátria!",
@@ -458,7 +459,25 @@
 	]
   },
   {
-    "id":35,
+    "id":36,
+    "type":"Zonas Neutras",
+    "title":"Redline",
+    "notes":"Uma oficina de confiança!",
+    "order":2,
+	"strokecolor":"#772200",
+	"fillcolor":"#cc6666",
+    "latlngarray": [
+	{"lat": 66.396, "lng": -130.695},
+	{"lat": 66.396, "lng": -130.168},
+	{"lat": 66.602, "lng": -130.124},
+	{"lat": 66.602, "lng": -129.541},
+	{"lat": 66.466, "lng": -129.574},
+	{"lat": 66.220, "lng": -129.893},
+	{"lat": 66.211, "lng": -130.662}
+	]
+  },	
+  {
+    "id":37,
     "type":"Zonas Neutras",
     "title":"Stand de Clássicos",
     "notes":"O que não nos desafia não nos transforma. Escolhe o melhor ou nada.",
@@ -473,7 +492,7 @@
       ]
   },
   {
-    "id":36,
+    "id":38,
     "type":"Zonas Neutras",
     "title":"Tribunal",
     "notes":"A Justiça está mais próxima de si a servir e proteger Atlantic.",
