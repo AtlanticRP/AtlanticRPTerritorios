@@ -44,6 +44,23 @@
   {
     "id":3,
     "type":"Áreas Territoriais",
+    "title":"Black Mafia Families",
+    "notes":"Formada a 14 de Outubro de 1969, numa altura em que as ruas eram medidas pelo poder do armamento, 16 destemidos amigos com olho para as ilegalidades, começaram assim o seu domínio na cidade.",
+    "order":2,
+	"strokecolor":"#FFFF00",
+	"fillcolor":"#FFFF00",
+    "latlngarray": [
+      {"lat": 61.709, "lng": -120.531},
+      {"lat": 61.636, "lng": -120.652},
+      {"lat": 61.485, "lng": -120.806},
+      {"lat": 61.121, "lng": -121.509},
+      {"lat": 61.411, "lng": -122.146},
+      {"lat": 62.000, "lng": -121.113}
+      ]
+  },	
+  {
+    "id":4,
+    "type":"Áreas Territoriais",
     "title":"Bloods",
     "notes":"Os Bloods são uma das maiores e mais violentas gangues da California. Eles tem uma intensa rivalidade com os Crips. Os membros são conhecidos pela cor vermelha, escolhida dado que os Crips usavam a cor azul.",
     "order":2,
@@ -58,7 +75,7 @@
 	]
   },
   {
-    "id":4,
+    "id":5,
     "type":"Áreas Territoriais",
     "title":"Crips",
     "notes":"Há muitas versões sobre a origem do nome, a mais citada é como uma sigla para Community Revolution In Progress (Revolução Comunitária em Progresso).",
@@ -76,7 +93,7 @@
 	]
   },
   {
-    "id":5,
+    "id":6,
     "type":"Áreas Territoriais",
     "title":"Grove Street Families",
     "notes":"'Sworn enemies' dos Ballas, uma intensa rivalidade que faz parte da Guerra Ballas-Grove Street. Os Grove Street Families também mantêm rivalidade com 2 gangs mexicanas - Vagos e Aztecas.",
@@ -114,23 +131,6 @@
   {
     "id":8,
     "type":"Áreas Territoriais",
-    "title":"Vagos",
-    "notes":"Formada a 14 de Outubro de 1969, numa altura em que as ruas eram medidas pelo poder do armamento, 16 destemidos amigos com olho para as ilegalidades, começaram assim o seu domínio na cidade.",
-    "order":2,
-	"strokecolor":"#FFFF00",
-	"fillcolor":"#FFFF00",
-    "latlngarray": [
-      {"lat": 61.709, "lng": -120.531},
-      {"lat": 61.636, "lng": -120.652},
-      {"lat": 61.485, "lng": -120.806},
-      {"lat": 61.121, "lng": -121.509},
-      {"lat": 61.411, "lng": -122.146},
-      {"lat": 62.000, "lng": -121.113}
-      ]
-  },
-  {
-    "id":9,
-    "type":"Áreas Territoriais",
     "title":"Comando Vermelho",
     "notes":"Sendo uma das maiores organizações criminosas do Brasil, rivais do PCC, os membros fundadores do Comando Vermelho tornaram-se notórios pelas suas atividades criminosas e pelas suas condenações, que financiavam as atividades criminosas daqueles que estavam em liberdade.",
     "order":2,
@@ -144,7 +144,7 @@
       ]
   },
   {
-    "id":10,
+    "id":9,
     "type":"Áreas Territoriais",
     "title":"PCC",
     "notes":"O Primeiro Comando da Capital, 'PCC', é a maior organização criminosa do Brasil e uma das maiores do mundo. Espalhada por mais de 90 países, possui cerca de 30 mil membros e é principalmente financiada pelo tráfico de erva e cocaína.",
@@ -161,7 +161,7 @@
       ]
   },
   {
-    "id":11,
+    "id":10,
     "type":"Áreas Territoriais",
     "title":"Black Pistons MC",
     "notes":"Bar, Oficina e Tráfico.",
@@ -176,7 +176,7 @@
 	]
   },
   {
-    "id":12,
+    "id":11,
     "type":"Áreas Territoriais",
     "title":"Sons of Anarchy MC",
     "notes":"Para além de uma oficina de motociclos, os S.O.A. estão envolvidos no tráfico de armas em toda a zona Este de Atlantic, lidam com muitas gangues rivais e com as autoridades locais.",
@@ -192,7 +192,7 @@
 	]
   },
   {
-    "id":13,
+    "id":12,
     "type":"Áreas Territoriais",
     "title":"The Lost MC",
     "notes":"Após fazerem uma reestruturação interna, os The Lost mudaram-se para Stab City e fizeram de Paleto Bay a sua nova casa.",
@@ -207,7 +207,7 @@
 	]
   },
   {
-    "id":14,
+    "id":13,
     "type":"Áreas Territoriais",
     "title":"Yellow Jack",
     "notes":"Um bar pequeno mas bastante sofisticado que é o favorito dos residentes do Norte da Cidade de Atlantic controlado pelos Vipers MC.",
